@@ -1,0 +1,16 @@
+Sudo yum install git -y  
+2. git - - version 
+3. Clone  $ git clone the https url of the repo
+4. To add to staging $ git add  filename or –all (to add all files)
+5. To commit $ git commit -m “The message in btw the qoutes”
+6. To upload your changes $ git push 
+7. To refresh your local repo $ git pull 
+3. git config --global user.email "you@youremail.com"
+4. git config --global user.name "Your Name"
+5. Clone  $ git clone the https url of the repo
+6. To add to staging $ git add  filename or –all (to add all files)
+7. To commit $ git commit -m “The message in btw the qoutes”
+8. To upload your changes $ git push 
+9. To refresh your local repo $ git pull 
+
+- Installed Ansible:
